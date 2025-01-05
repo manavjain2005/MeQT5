@@ -1,9 +1,5 @@
 # FILE STRUCTURE
 
-- **commands.sh**: basic shell commands to setup the environment to run our application.
-
-- **codesearchnet**: contains database for code generation agent.
-
 - **agent.py**: contains all agents.
 
 - **agent_store.py**: contains code for the agent selection process.
